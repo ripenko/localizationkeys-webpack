@@ -64,7 +64,7 @@ const defaultLanguage = required("localization/default.jsonc");
 ```
 
 `default.jsonc` file:
-```json
+```jsonc
 {
     "Hello": "{0}! Hello World!", // {0} - user full name
     "Boolean": {

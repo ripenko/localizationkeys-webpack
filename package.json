@@ -1,7 +1,7 @@
 {
   "name": "localizationkeys-webpack",
   "description": "The webpack plugin that generates localization keys class from json with comments (JSONC)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./index.js",
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
