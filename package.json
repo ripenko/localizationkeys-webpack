@@ -1,7 +1,7 @@
 {
   "name": "localizationkeys-webpack",
   "description": "The webpack plugin that generates localization keys class from json with comments (JSONC)",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./index.js",
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
@@ -12,6 +12,14 @@
     "type": "git",
     "url": "git@github.com:ripenko/localizationkeys-webpack.git"
   },
+  "keywords": [
+    "localization",
+    "localizationservice",
+    "webpack",
+    "jsonc",
+    "typescript",
+    "generator"
+  ],
   "dependencies": {
     "node": "6.13.0",
     "loader-utils": "1.2.3",
